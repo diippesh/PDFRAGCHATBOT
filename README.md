@@ -193,3 +193,5 @@ Issues and pull requests are welcome. Please run `ruff`, `black`, and `pytest` l
 ## 📄 License
 
 Released under the [MIT License](LICENSE) - free to use, modify, and distribute with attribution.
+#   P D F R A G C H A T B O T  
+ 
