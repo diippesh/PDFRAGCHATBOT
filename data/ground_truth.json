@@ -1,0 +1,74 @@
+[
+  {
+    "user_input": "How many annual leave days are full-time employees entitled to?",
+    "source": "Nimbus_Employee_Handbook.pdf",
+    "reference": "Full-time employees are entitled to 18 days of paid annual leave per calendar year, accrued at 1.5 days per month.",
+    "reference_contexts": [
+      "All full-time employees are entitled to 18 days of paid annual leave per calendar year, accrued at 1.5 days per month."
+    ]
+  },
+  {
+    "user_input": "What is the remote work policy?",
+    "source": "Nimbus_Employee_Handbook.pdf",
+    "reference": "Nimbus operates a hybrid work model. Employees work from the office on Tuesdays and Thursdays, while the other three days may be worked remotely. Remote employees must remain reachable from 10:00 AM to 4:00 PM IST.",
+    "reference_contexts": [
+      "Nimbus operates on a hybrid work model. Employees are required to work from office on Tuesdays and Thursdays, with the remaining three days available for remote work. Fully remote arrangements may be approved by a Department Head for roles that do not require in-person collaboration, subject to annual review. Employees working remotely must remain reachable during core hours of 10:00 AM to 4:00 PM IST."
+    ]
+  },
+  {
+    "user_input": "What are the password requirements?",
+    "source": "Nimbus_Employee_Handbook.pdf",
+    "reference": "Passwords must be at least 14 characters long and rotated every 180 days. Employees must also use full-disk encryption and MFA on devices used to access company systems.",
+    "reference_contexts": [
+      "Employees must enable full-disk encryption and multi-factor authentication (MFA) on all devices used to access company systems. Passwords must be at least 14 characters long and rotated every 180 days."
+    ]
+  },
+  {
+    "user_input": "How quickly must a suspected security incident be reported?",
+    "source": "Nimbus_Employee_Handbook.pdf",
+    "reference": "A suspected security incident must be reported to the IT Security team within 4 hours of discovery through the #security-incidents Slack channel or security@nimbuscloud.example.",
+    "reference_contexts": [
+      "Any suspected security incident must be reported to the IT Security team within 4 hours of discovery via the #security-incidents Slack channel or security@nimbuscloud.example."
+    ]
+  },
+  {
+    "user_input": "When must expense reports be submitted?",
+    "source": "Nimbus_Employee_Handbook.pdf",
+    "reference": "Expense reports must be submitted within 30 days of incurring the expense through the Nimbus Expense Portal. Reports submitted later require Finance Director approval.",
+    "reference_contexts": [
+      "Employees must submit expense reports within 30 days of incurring the expense, using the Nimbus Expense Portal. Reports submitted after 30 days require Finance Director approval."
+    ]
+  },
+  {
+    "user_input": "How often are performance reviews conducted?",
+    "source": "Nimbus_Employee_Handbook.pdf",
+    "reference": "Nimbus conducts performance reviews twice a year, in April and October.",
+    "reference_contexts": [
+      "Nimbus conducts performance reviews twice a year, in April and October."
+    ]
+  },
+  {
+    "user_input": "What is the Enterprise client uptime SLA?",
+    "source": "Nimbus_Employee_Handbook.pdf",
+    "reference": "Nimbus commits to a 99.9% uptime SLA for all Enterprise-tier clients.",
+    "reference_contexts": [
+      "Nimbus commits to a 99.9% uptime SLA for all Enterprise-tier clients."
+    ]
+  },
+  {
+    "user_input": "What is the response time for a Severity 1 incident?",
+    "source": "Nimbus_Employee_Handbook.pdf",
+    "reference": "A Severity 1 incident must receive an initial response within 15 minutes and a resolution or workaround within 4 hours.",
+    "reference_contexts": [
+      "Critical (Severity 1) incidents must receive an initial response within 15 minutes and a resolution or workaround within 4 hours."
+    ]
+  },
+  {
+    "user_input": "Who should I contact for IT security issues?",
+    "source": "Nimbus_Employee_Handbook.pdf",
+    "reference": "The IT Security contact is the Security Desk at security@nimbuscloud.example.",
+    "reference_contexts": [
+      "IT Security | Security Desk | security@nimbuscloud.example"
+    ]
+  }
+]
